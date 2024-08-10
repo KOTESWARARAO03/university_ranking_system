@@ -1,0 +1,9 @@
+scipy.cluster.hierarchy
+sklearn.cluster.AgglomerativeClustering
+sklearn.cluster.KMeans
+sklearn.cluster.DBSCAN
+sklearn.preprocessing.StandardScaler
+numpy
+pandas
+matplotlib.pyplot 
+seaborn 
